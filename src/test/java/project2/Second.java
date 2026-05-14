@@ -10,6 +10,7 @@ public class Second {
 	{
 		System.out.println("apple");
 		System.out.println("Mango");
+		System.out.println("banana");
 	}
 
 }
