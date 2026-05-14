@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Second {
 	
 	
-	@Test(groups="ST")	
+	@Test(groups="smoke")	
 	public void AppleTest()
 	{
 		System.out.println("apple");
