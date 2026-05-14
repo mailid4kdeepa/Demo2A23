@@ -9,6 +9,7 @@ public class Second {
 	public void AppleTest()
 	{
 		System.out.println("apple");
+		System.out.println("Mango");
 	}
 
 }
